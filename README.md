@@ -1,70 +1,68 @@
 # Thalisson Diogo
 
-**Desenvolvedor em formação | Desenvolvimento Web**
+**Desenvolvimento Web · Software · Jogos**
 
-Estudante do segundo ano do Ensino Médio, com interesse em desenvolvimento de software, aplicações web e criação de jogos. Desenvolvo projetos próprios para colocar meus conhecimentos em prática, explorar novas tecnologias e aprimorar minhas habilidades de programação.
+Estudante de tecnologia interessado no desenvolvimento de aplicações web, software e jogos. Utilizo projetos próprios para colocar conhecimentos em prática, experimentar soluções e evoluir como desenvolvedor.
 
-## Sobre mim
+## Sobre
 
-- Estudo desenvolvimento web e programação.
-- Desenvolvo projetos utilizando JavaScript, HTML e CSS.
-- Tenho interesse em aplicações web, jogos e projetos educacionais.
-- Busco melhorar a qualidade do código, a organização dos projetos e a experiência dos usuários.
+- Estudante do 2º ano do Ensino Médio.
+- Desenvolvimento de sites e aplicações web.
+- Criação de jogos utilizando JavaScript.
+- Interesse em desenvolvimento de software, projetos educacionais e experiências interativas.
 
 ## Tecnologias e ferramentas
 
-**Linguagens e desenvolvimento web**
-
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 </p>
 
-**Ferramentas**
-
 <p>
-  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-181818?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/Godot-161B22?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot">
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 </p>
 
-## Projetos
+## Projetos selecionados
 
 ### [ZAX Marketplace](https://github.com/thalissondiogo/ZAX-Marketplace)
 
-Projeto de comércio eletrônico com foco em apresentação de produtos, experiência de navegação e recursos de interface.
+Projeto de e-commerce com foco em catálogo de produtos e experiência de navegação.
 
-### [Snake Game](https://github.com/thalissondiogo/Snake_Game_V1)
+### [Candy-Math](https://github.com/thalissondiogo/Candy-Math)
 
-Implementação do clássico jogo da cobrinha utilizando JavaScript, com foco em lógica de programação e interação com o usuário.
-
-### [Snake Game V2](https://github.com/thalissondiogo/Snake_game_V2)
-
-Uma segunda versão do jogo da cobrinha, com temática inspirada em Pokémon Rayquaza.
+Jogo educativo com temática de doces e proposta de aprendizado de matemática.
 
 ### [Cantina SENAI](https://github.com/thalissondiogo/Cantina_Senai)
 
-Projeto de sistema para gerenciamento de cantina escolar, desenvolvido como aplicação prática.
+Projeto voltado ao gerenciamento de uma cantina escolar.
+
+### [Snake Game V2](https://github.com/thalissondiogo/Snake_game_V2)
+
+Jogo da cobrinha com temática inspirada no Pokémon Rayquaza.
 
 ### [Ping Pong SENAI](https://github.com/thalissondiogo/Ping_Pong_Senai)
 
-Implementação do jogo Pong em uma versão desenvolvida para avaliação escolar.
+Projeto de jogo Pong desenvolvido em contexto escolar.
 
-### [Candy Math](https://github.com/thalissondiogo/Candy-Math)
+### [Snake Game V1](https://github.com/thalissondiogo/Snake_Game_V1)
 
-Jogo educativo com temática de doces, voltado à prática de matemática de forma interativa.
+Implementação do clássico jogo da cobrinha utilizando JavaScript.
 
-## Estatísticas do GitHub
+## GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thalissondiogo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=pt-br" alt="Estatísticas do GitHub">
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thalissondiogo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estatísticas do GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissondiogo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas">
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/thalissondiogo">GitHub</a>
+  <a href="https://github.com/thalissondiogo">github.com/thalissondiogo</a>
 </p>
